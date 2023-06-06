@@ -21,7 +21,7 @@ export default function Example() {
         <nav className="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
           <div className="flex lg:flex-1">
             <a href="#" className="-m-1.5 p-1.5">
-              <span className="sr-only">Your Company</span>
+              <span className="sr-only">EZ Solar</span>
               <img
                 className="h-8 w-auto"
                 src={logo}
@@ -125,11 +125,10 @@ export default function Example() {
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Data to enrich your online business
+            Sustainable Living Through Solar Energy
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+            Say goodbye to high electricity bills and hello to solar savings,Powering your home with clean, renewable solar energy.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
